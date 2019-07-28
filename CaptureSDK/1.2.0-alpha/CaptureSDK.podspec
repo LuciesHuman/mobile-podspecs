@@ -2,8 +2,8 @@
 Pod::Spec.new do |s|
   s.name        = 'CaptureSDK'
   s.version     = '1.2.0-alpha'
-  s.summary     = 'iOS ID capture'
-  s.description = 'iOS framework to capture images of ID cards for use with Evident services. '
+  s.summary     = 'Evident ID document image capture for iOS '
+  s.description = 'Binary framework to capture an image of identification documents for submission to Evident services for verification. '
   s.homepage    = 'https://www.evidentid.com/api-documentation-developers'
   s.license     = { :type => 'Commercial', :text => 'Commercial license, ' }
   s.author      = { 'gendo' => 'gendo@evidentid.com' }
